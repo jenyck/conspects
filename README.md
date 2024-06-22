@@ -12,4 +12,5 @@
 - [Устройство компьютера](./programming/cs.md)
 - [Pascal](./programming/pascal.md)
 - [Заметки по программированию](./programming/programming.md)
+- [SQL](./programming/sql.md)
 - [Vim](./programming/vim.md)
