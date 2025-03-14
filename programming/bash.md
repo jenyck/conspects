@@ -57,7 +57,7 @@ $ ls -l /bin/cat
 pandoc --pdf-engine=xelatex -V mainfont="DejaVu Sans" -V monofont="DejaVu Sans Mono" conspect.md -o conspect.pdf
 ```
 
-Меняет формат файла на unix:
+Меняет формат файла на unix с помощью vi:
 
 ```bash
 vi -c 'set ff=unix' -c 'wq' file
